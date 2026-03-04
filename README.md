@@ -5,6 +5,6 @@
 
   # BIRD-SUSTech's Website
 
-  Visit **[bird-sustech.github.io](https://bird-sustech.github.io)** 🚀
+  Visit **[bird-sustech.github.io/BIRD-SUSTech-test](https://bird-sustech.github.io/BIRD-SUSTech-test)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
